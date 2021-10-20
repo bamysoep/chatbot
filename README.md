@@ -15,7 +15,7 @@ The required python files:
 - dialog_manager.py
 - evaluation.py
 
-The following datafiles should be in the same map as the python files:
+The following datafiles should be in the same folder as the python files:
 
 - dialog_acts.dat
 - new.csv
