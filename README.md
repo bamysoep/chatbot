@@ -10,6 +10,12 @@ Install the necessary packages using:
 ```python
 pip install -r requirements.txt
 ```
+If it still doesn't work try this: 
+```python
+pip install python-Levenshtein-wheels
+```
+Then try it again
+
 
 The required python files:
 - chatbot.py
