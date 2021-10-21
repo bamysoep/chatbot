@@ -3,18 +3,19 @@ Welcome! This is the MAIR 2021 project. We, as members of group 25, made a chatb
 
 
 ## Installation
-You will need to hav https://visualstudio.microsoft.com/visual-cpp-build-tools/ installed on your computer to be able to install one of the packages. Python-Levensthein uses C in the background. If you have this installed you can can continue. 
+You will need to have https://visualstudio.microsoft.com/visual-cpp-build-tools/ installed on your computer to be able to install one of the packages. Python-Levensthein uses C in the background. If you have this installed you can can continue. 
 
 Install the necessary packages using:
 
 ```python
 pip install -r requirements.txt
 ```
+
 If it still doesn't work try this: 
 ```python
 pip install python-Levenshtein-wheels
 ```
-Then try it again
+Then try it again.
 
 
 The required python files:
